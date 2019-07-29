@@ -2,13 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 走一步,再走一步</title>
-    <link>http://futuretea.github.io/tags/</link>
+    <link>https://futuretea.github.io/tags/</link>
     <description>Recent content in Tags on 走一步,再走一步</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <copyright>futuretea</copyright>
+    <lastBuildDate>Tue, 30 Jul 2019 02:23:58 +0800</lastBuildDate>
     
-	<atom:link href="http://futuretea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://futuretea.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://futuretea.github.io/tags/tutorial/</link>
+      <pubDate>Tue, 30 Jul 2019 02:23:58 +0800</pubDate>
+      
+      <guid>https://futuretea.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

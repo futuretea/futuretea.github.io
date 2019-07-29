@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>走一步,再走一步</title>
-    <link>https://futuretea.github.io/</link>
-    <description>Recent content on 走一步,再走一步</description>
+    <title>tutorial on 走一步,再走一步</title>
+    <link>https://futuretea.github.io/categories/tutorial/</link>
+    <description>Recent content in tutorial on 走一步,再走一步</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>futuretea</copyright>
     <lastBuildDate>Tue, 30 Jul 2019 02:23:58 +0800</lastBuildDate>
     
-	<atom:link href="https://futuretea.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://futuretea.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://futuretea.github.io/about/</link>
-      <pubDate>Tue, 30 Jul 2019 02:23:58 +0800</pubDate>
-      
-      <guid>https://futuretea.github.io/about/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Helloworld</title>
